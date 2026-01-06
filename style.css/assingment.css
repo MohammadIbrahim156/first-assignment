@@ -54,3 +54,28 @@
 .logo{
     text-align: center;
 }
+.heroch4{
+    display: flex;
+    margin-top: 150px;
+    gap: 50px;
+  
+ 
+}
+.banar img{
+    height: 500px;
+   margin-left: 30px;
+}
+.tex p img {
+    
+
+width: 20px;
+height: 20px;
+background-color: rgba(48, 184, 104, 1);
+border-radius: 10px;
+
+}
+.heroch4 .tex{
+    margin-left: 20px;
+}
+
+
