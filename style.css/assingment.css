@@ -1,0 +1,56 @@
+.topnav{
+     margin-top: 16px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.topnav img{
+    margin-left:60px;
+   
+    width: 200px;
+}
+
+.hero{
+    max-width: 1300px;
+    height: 500px;
+    background-image: url("../assets/hero-bg.png");
+    background-size: cover;
+    background-position: center;
+  
+}
+.heroch{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.heroch1{
+    display: flex;
+}
+.heroch2{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.heroch3 { 
+    display: flex;
+   gap: 20px;
+   
+
+
+}
+.logo img{
+    width: 30px;
+    height: 30px;
+    background-color:#F95555;
+    border-radius: 20px;
+
+}
+.logo{
+    text-align: center;
+}
